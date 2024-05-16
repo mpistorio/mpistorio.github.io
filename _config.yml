@@ -24,6 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: LinkedIn, icon: in, url: "https://www.linkedin.com/in/mariela-pistorio/"}
   - {title: Github, icon: github, url: "https://github.com/mpistorio"}
   - {title: X, icon: twitter, url: "https://twitter.com/MarielaPistorio"}
+  - {title: scholar, icon: scholar, url: "https://scholar.google.com.ar/citations?user=TneYDxUAAAAJ&hl=es&authuser=1"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
