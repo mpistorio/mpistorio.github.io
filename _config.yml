@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mariela.pistorio@econo.unlp.com"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/mariela-pistorio/"}
   - {title: Github, icon: github, url: "https://github.com/mpistorio"}
   - {title: X, icon: twitter, url: "https://twitter.com/MarielaPistorio"}
 
