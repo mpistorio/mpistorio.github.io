@@ -21,9 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mariela.pistorio@econo.unlp.com"}
-  - {title: LinkedIn, icon: In, url: "https://www.linkedin.com/in/mariela-pistorio/"}
+  - {title: LinkedIn, icon: in, url: "https://www.linkedin.com/in/mariela-pistorio/"}
   - {title: Github, icon: github, url: "https://github.com/mpistorio"}
-  - {title: X, icon: X, url: "https://twitter.com/MarielaPistorio"}
+  - {title: X, icon: twitter, url: "https://twitter.com/MarielaPistorio"}
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
